@@ -10,7 +10,7 @@ Smart Budget Advisor is a simple command-line application built with Python. It 
 
 - Accepts user budget input
 - Validates budget range (₹1,000–₹10,000)
-- Categorizes budgets into Low, Moderate, and High
+- Categorizes budgets into Low, Moderate, and   High
 - Provides spending recommendations
 - Simple and beginner-friendly interface
 
